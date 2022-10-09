@@ -5,13 +5,6 @@ hello git! 55555
 hello git!
 hello git!
 hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
 hello git! master test
 hello git! hot-fix text
 111111111111111111111111111111
